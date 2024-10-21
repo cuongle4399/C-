@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai2-inxau\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7C18722A-1894-44C9-A6E6-66DA0B56CAB3}|bai2-inxau\\bai2-inxau.vcxproj|C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai2-inxau\\bai2-inxau\\bai2-inxau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7C18722A-1894-44C9-A6E6-66DA0B56CAB3}|bai2-inxau\\bai2-inxau.vcxproj|solutionrelative:bai2-inxau\\bai2-inxau.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai2-inxau.cpp",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai2-inxau\\bai2-inxau\\bai2-inxau.cpp",
+              "RelativeDocumentMoniker": "bai2-inxau\\bai2-inxau.cpp",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai2-inxau\\bai2-inxau\\bai2-inxau.cpp",
+              "RelativeToolTip": "bai2-inxau\\bai2-inxau.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T01:29:11.573Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

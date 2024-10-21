@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai1-ghephinhchunhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5FA34F0E-E2EE-4847-A113-F46C8874C932}|bai1-ghephinhchunhat\\bai1-ghephinhchunhat.vcxproj|C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{5FA34F0E-E2EE-4847-A113-F46C8874C932}|bai1-ghephinhchunhat\\bai1-ghephinhchunhat.vcxproj|solutionrelative:bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai1-ghephinhchunhat.cpp",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp",
+              "RelativeDocumentMoniker": "bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp",
+              "RelativeToolTip": "bai1-ghephinhchunhat\\bai1-ghephinhchunhat.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-21T01:25:50.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
