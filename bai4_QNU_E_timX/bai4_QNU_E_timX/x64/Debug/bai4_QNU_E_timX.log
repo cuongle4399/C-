@@ -1,0 +1,2 @@
+﻿  bai4_QNU_E_timX.cpp
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai4_QNU_E_timX\bai4_QNU_E_timX\bai4_QNU_E_timX.cpp(6,1): error C4700: uninitialized local variable 'n' used

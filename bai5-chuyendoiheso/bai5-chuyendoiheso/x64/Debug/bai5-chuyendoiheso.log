@@ -1,0 +1,7 @@
+﻿  bai5-chuyendoiheso.cpp
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\bai5-chuyendoiheso\bai5-chuyendoiheso.cpp(11,13): warning C4244: 'initializing': conversion from '_Ty' to 'int', possible loss of data
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\bai5-chuyendoiheso\bai5-chuyendoiheso.cpp(11,13): warning C4244:         with
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\bai5-chuyendoiheso\bai5-chuyendoiheso.cpp(11,13): warning C4244:         [
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\bai5-chuyendoiheso\bai5-chuyendoiheso.cpp(11,13): warning C4244:             _Ty=__int64
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\bai5-chuyendoiheso\bai5-chuyendoiheso.cpp(11,13): warning C4244:         ]
+  bai5-chuyendoiheso.vcxproj -> C:\Users\Cuong Le\Desktop\train C++ vnoi\bai5-chuyendoiheso\x64\Debug\bai5-chuyendoiheso.exe

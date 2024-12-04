@@ -1,0 +1,51 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai5-tichlonnhat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE4CB875-4C51-4A83-82A9-D6954AC91820}|bai5-tichlonnhat\\bai5-tichlonnhat.vcxproj|C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai5-tichlonnhat\\bai5-tichlonnhat\\bai5-tichlonnhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE4CB875-4C51-4A83-82A9-D6954AC91820}|bai5-tichlonnhat\\bai5-tichlonnhat.vcxproj|solutionrelative:bai5-tichlonnhat\\bai5-tichlonnhat.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "bai5-tichlonnhat.cpp",
+              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai5-tichlonnhat\\bai5-tichlonnhat\\bai5-tichlonnhat.cpp",
+              "RelativeDocumentMoniker": "bai5-tichlonnhat\\bai5-tichlonnhat.cpp",
+              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai5-tichlonnhat\\bai5-tichlonnhat\\bai5-tichlonnhat.cpp*",
+              "RelativeToolTip": "bai5-tichlonnhat\\bai5-tichlonnhat.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T13:01:07.826Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 192,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
