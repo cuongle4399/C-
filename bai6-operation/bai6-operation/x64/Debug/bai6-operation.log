@@ -1,0 +1,7 @@
+﻿  bai6-operation.cpp
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\bai6-operation\bai6-operation.cpp(13,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\bai6-operation\bai6-operation.cpp(46,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\bai6-operation\bai6-operation.cpp(67,13): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\bai6-operation\bai6-operation.cpp(70,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\bai6-operation\bai6-operation.cpp(79,9): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  bai6-operation.vcxproj -> C:\Users\Cuong Le\Desktop\train C++ vnoi\bai6-operation\x64\Debug\bai6-operation.exe
