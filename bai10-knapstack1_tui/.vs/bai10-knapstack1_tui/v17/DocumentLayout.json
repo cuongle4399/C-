@@ -1,42 +1,24 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai10-knapstack1_tui\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{A4F1E91D-694F-485D-8E71-E1815F55A05E}|bai10-knapstack1_tui\\bai10-knapstack1_tui.vcxproj|C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai10-knapstack1_tui\\bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A4F1E91D-694F-485D-8E71-E1815F55A05E}|bai10-knapstack1_tui\\bai10-knapstack1_tui.vcxproj|solutionrelative:bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "bai10-knapstack1_tui.cpp",
-              "DocumentMoniker": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai10-knapstack1_tui\\bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp",
-              "RelativeDocumentMoniker": "bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp",
-              "ToolTip": "C:\\Users\\Cuong Le\\Desktop\\train C\u002B\u002B vnoi\\bai10-knapstack1_tui\\bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp",
-              "RelativeToolTip": "bai10-knapstack1_tui\\bai10-knapstack1_tui.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-11-23T13:57:19.606Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 192,
+          "DockedWidth": 973,
           "SelectedChildIndex": -1,
           "Children": [
             {

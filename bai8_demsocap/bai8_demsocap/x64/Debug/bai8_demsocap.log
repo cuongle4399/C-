@@ -1,0 +1,3 @@
+﻿  bai8_demsocap.cpp
+C:\Users\Cuong Le\Desktop\train C++ vnoi\bai8_demsocap\bai8_demsocap\bai8_demsocap.cpp(8,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  bai8_demsocap.vcxproj -> C:\Users\Cuong Le\Desktop\train C++ vnoi\bai8_demsocap\x64\Debug\bai8_demsocap.exe
